@@ -1,7 +1,12 @@
 ### Bonjour, 
 
-#### je code a
-https://camo.githubusercontent.com/cc96d7d28a6ca21ddbb1f2521d751d375230ed840271e6a4c8694cf87cc60c14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732532302d2532333433383533442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465
+<img src="https://github-readme-stats.vercel.app/api?username=Cleboost&theme=white&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleboost&theme=white&layout=compact">
+
+
+![image](https://user-images.githubusercontent.com/61158869/152136133-da0ecec5-7ede-4916-8853-a56e3420c502.png)  ![image](https://user-images.githubusercontent.com/61158869/152136159-7d636840-c464-4ff3-9824-20d23eeb1013.png)  ![image](https://user-images.githubusercontent.com/61158869/152136264-9d60055a-77b2-4395-89f6-af5e012a5a4c.png)
+
+
 <!--
 **Cleboost/Cleboost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
