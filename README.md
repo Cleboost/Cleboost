@@ -1,4 +1,8 @@
-### Bonjour, 
+- 🔭 I’m currently working on <a href="https://discord.gg/naJTnTFSmC">Infernus</a>
+- 🌱 I’m currently learning Java
+- 📫 For reache me, send me message on discord : ζ͜͡C𝕝𝕖𝕓𝕠𝕠𝕤𝕥#4931 
+- 👯 My collaborater is Youritch, we team's name is <a href="https://discord.gg/243tk7k76v">Bot Encoders Studio</a>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Cleboost&theme=white&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleboost&theme=white&layout=compact">
