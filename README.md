@@ -1,27 +1,21 @@
-- 🔭 I’m currently working on <a href="https://discord.gg/naJTnTFSmC">Infernus</a>
-- 🌱 I’m currently learning Java
-- 📫 For reache me, send me message on discord : Cleboost
-- 👯 My collaborater is Youritch, we team's name is <a href="https://discord.gg/243tk7k76v">Bot Encoders Studio</a>
+# Salut à tous, je suis Clément Balarot! 👋
 
+## À propos de moi
+- 🎓 J'ai 15 ans et je suis passionné par le monde du développement.
+- 💻 Mes langages de prédilection : JavaScript, Java, CSS, HTML, PHP et Node.js.
+- 🌱 Toujours en quête de nouvelles technologies pour enrichir mes compétences.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleboost&hide_progress=false)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleboost&show_icons=true&theme=gradient)
+## Mes compétences
+- 🚀 JavaScript | Node.js | Vue.js | Express.js
+- 🎨 HTML | CSS
+- ☕ Java
+- 💻 PHP
 
+## Mes projets
+- 🚀 [**Dream Dev**](https://discord.gg/dreamdev) - Propose des services de développement et d'accompagnement pour tous types de projets (web, applications, bots Discord, Minecraft).
+- 🌐 [**Pinous-Heberg**](https://discord.gg/8vNNYzfeND) - Un petit hébergeur proposant des services web, VPS, serveurs gaming, et des solutions de protection réseau.
 
-![image](https://user-images.githubusercontent.com/61158869/152136133-da0ecec5-7ede-4916-8853-a56e3420c502.png)  ![image](https://user-images.githubusercontent.com/61158869/152136159-7d636840-c464-4ff3-9824-20d23eeb1013.png)  ![image](https://user-images.githubusercontent.com/61158869/152136264-9d60055a-77b2-4395-89f6-af5e012a5a4c.png)
+## Me contacter
+- 📧 Email: [clement.balarot@gmail.com](mailto:clement.balarot@gmail.com)
 
-
-<!--
-**Cleboost/Cleboost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+N'hésitez pas à explorer mes repositories pour découvrir mes projets. Si vous avez des questions ou des suggestions, je suis ouvert aux discussions. Merci d'avoir visité mon profil! 😊
