@@ -1,5 +1,7 @@
 # Salut à tous, je suis Clément Balarot! 👋
 
+<img src="https://github-widgetbox.vercel.app/api/profile?username=cleboost&data=followers,repositories,stars,commits&theme=darkmode">
+
 ## À propos de moi
 - 🎓 J'ai 15 ans et je suis passionné par le monde du développement.
 - 💻 Mes langages de prédilection : JavaScript, Java, CSS, HTML, PHP et Node.js.
