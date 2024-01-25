@@ -8,7 +8,7 @@
 ## Mes compétences
 - 🚀 JavaScript | Node.js | Vue.js | Express.js
 - 🎨 HTML | CSS
-- ☕ Java
+- ☕ Java | Minecraft
 - 💻 PHP
 
 ## Mes projets
