@@ -8,8 +8,8 @@
 - 🌱 Toujours en quête de nouvelles technologies pour enrichir mes compétences.
 
 ## Mes compétences
-- 🚀 JavaScript | Node.js | Vue.js | Express.js
-- 🎨 HTML | CSS
+- 🚀 JavaScript | Node.js | Vue.js | Nuxt.js | Express.js
+- 🎨 HTML | CSS 💩 (Je deteste le css) | Tailwind CSS
 - ☕ Java | Minecraft
 - 💻 PHP
 
