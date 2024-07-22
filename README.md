@@ -1,6 +1,7 @@
 # Salut à tous, je suis Clément Balarot! 👋
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=cleboost&data=followers,repositories,stars,commits&theme=darkmode">
+<a href="discord.gg/frgaming"><img src="https://discord-readme-badge.vercel.app/api?id=958057847306985503"></a>
 
 ## À propos de moi
 - 🎓 J'ai 15 ans et je suis passionné par le monde du développement.
