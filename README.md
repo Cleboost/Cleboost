@@ -4,7 +4,7 @@
 <a href="discord.gg/frgaming"><img src="https://discord-readme-badge.vercel.app/api?id=958057847306985503"></a>
 
 ## À propos de moi
-- 🎓 J'ai 15 ans et je suis passionné par le monde du développement.
+- 🎓 J'ai 16 ans et je suis passionné par le monde du développement.
 - 💻 Mes langages de prédilection : JavaScript, Java, CSS, HTML, PHP et Node.js.
 - 🌱 Toujours en quête de nouvelles technologies pour enrichir mes compétences.
 
