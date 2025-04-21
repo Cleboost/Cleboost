@@ -1,20 +1,15 @@
 # Hi everyone, I'm Clément Balarot! 👋
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=cleboost&data=followers,repositories,stars,commits&theme=darkmode">
-<a href="https://discord.com/users/958057847306985503"><img src="https://lanyard.cnrad.dev/api/958057847306985503"></a>
 
 ## About me
 - 🎓 I'm 16 years old and passionate about the world of development.
 - 💻 My preferred languages: JavaScript, Java, CSS, HTML, PHP, and Node.js.
 - 🌱 Always looking to explore new technologies to enhance my skills.
 
-## My skills
-- 🚀 JavaScript | Node.js | Vue.js | Nuxt.js | Express.js
-- 🎨 HTML | CSS 💩 (I hate CSS) | Tailwind CSS
-- ☕ Java | Minecraft
-- 💻 PHP
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,go,bash,xml,json,yaml,mysql,powershell&frameworks=vue,react,nuxt,next,electron,tailwind,ionic&tools=git,docker,npm,yarn,webpack,mongodb,vercel,nodejs,apache,nginx,prettier)](https://github.com/Jurredr/github-widgetbox)
 
-## My projects
+## My projects (to rewrite)
 - 🚀 [**Dream Dev**](https://discord.gg/dreamdev) - Offering development services and guidance for all types of projects (web, apps, Discord bots, Minecraft).
 - 🪐 [**Saturne.lol**](https://saturne.lol) - A site for creating online profiles that lets you build and share custom showcase pages, along with presenting your projects and Discord servers.
 - 🌐 [**Pinous-Heberg**](https://pinous-heberg.com) - A small hosting provider offering web, VPS, gaming servers, and network protection solutions.
