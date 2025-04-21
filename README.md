@@ -7,7 +7,7 @@
 - 💻 My preferred languages: JavaScript, Java, CSS, HTML, PHP, and Node.js.
 - 🌱 Always looking to explore new technologies to enhance my skills.
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,go,bash,xml,json,yaml,mysql,powershell&frameworks=vue,react,nuxt,next,electron,tailwind,ionic&tools=git,docker,npm,yarn,webpack,mongodb,vercel,nodejs,apache,nginx,prettier)](https://github.com/Jurredr/github-widgetbox)
+<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,go,bash,xml,json,yaml,mysql,powershell&frameworks=vue,react,nuxt,next,electron,tailwind,ionic&tools=git,docker,npm,yarn,webpack,mongodb,vercel,nodejs,apache,nginx,prettier&theme=darkmode&includeNames=true" alt="Skills" width="550"/>
 
 ## My projects (to rewrite)
 - 🚀 [**Dream Dev**](https://discord.gg/dreamdev) - Offering development services and guidance for all types of projects (web, apps, Discord bots, Minecraft).
