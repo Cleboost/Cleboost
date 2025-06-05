@@ -10,9 +10,8 @@
 <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,go,bash,xml,json,yaml,mysql,powershell&frameworks=vue,react,nuxt,next,electron,tailwind,ionic&tools=git,docker,npm,yarn,webpack,mongodb,vercel,nodejs,apache,nginx,prettier&theme=darkmode&includeNames=true" alt="Skills" width="550"/>
 
 ## My projects (to rewrite)
-- 🚀 [**Dream Dev**](https://discord.gg/dreamdev) - Offering development services and guidance for all types of projects (web, apps, Discord bots, Minecraft).
-- 🪐 [**Saturne.lol**](https://saturne.lol) - A site for creating online profiles that lets you build and share custom showcase pages, along with presenting your projects and Discord servers.
-- 🌐 [**Pinous-Heberg**](https://pinous-heberg.com) - A small hosting provider offering web, VPS, gaming servers, and network protection solutions.
+- 🚀 [**Dev Web**](https://discord.gg/devweb) - Offering development services and guidance for all types of projects (web, apps, Discord bots, Minecraft).
+~~- 🪐 [**Saturne.lol**](https://saturne.lol) - A site for creating online profiles that lets you build and share custom showcase pages, along with presenting your projects and Discord servers.~~ (dead)
 
 ## Contact me
 - 📧 Email: [clement.balarot@gmail.com](mailto:clement.balarot@gmail.com)
