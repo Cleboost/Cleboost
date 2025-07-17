@@ -10,10 +10,11 @@ jobs:
     permissions:
       contents: write
     steps:
-    - name: Example
+    - name: Edit profil
       uses: lowlighter/metrics@latest
       with:
         filename: metrics.classic.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: header, repositories
         plugin_lines: yes
+        plugin_languages: yes
