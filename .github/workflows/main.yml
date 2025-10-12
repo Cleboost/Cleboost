@@ -10,6 +10,9 @@ jobs:
     permissions:
       contents: write
     steps:
+    - name: Install dependencies
+      run: sudo apt-get update && sudo apt-get install -y docker.io jq
+      
     - name: Edit profil
       uses: lowlighter/metrics@latest
       with:
