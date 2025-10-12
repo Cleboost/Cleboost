@@ -16,6 +16,6 @@ jobs:
         filename: metrics.classic.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: header, repositories, activity
-        #plugin_lines: yes
+        plugin_lines: yes
         #plugin_languages: yes
         #commits_authoring: Cleboost
