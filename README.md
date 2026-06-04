@@ -1,3 +1,1 @@
-<div style="text-align: center;">
-  <img src="/metrics.classic.svg">
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Cleboost&rank_icon=default&hide_rank=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=Cleboost&rank_icon=default&hide_rank=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
